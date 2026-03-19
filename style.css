@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.form input, button {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+}
+
+li {
+    margin: 10px 0;
+    padding: 10px;
+    background: #e9ecef;
+}
